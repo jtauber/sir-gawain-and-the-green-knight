@@ -20,3 +20,5 @@ Text, translation, and annotation of Sir Gawain and the Green Knight
 - stanza number
 - note reference
 - note text
+
+`txt/kirtlan.txt` contains Ernest Kirtlan’s _Sir Gawain and the Green Knight: Rendered Literally Into Modern English_
