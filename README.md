@@ -13,3 +13,10 @@ Text, translation, and annotation of Sir Gawain and the Green Knight
 - stanza number
 - line type (`b` = bob; `w` = wheel)
 - text of line
+
+`txt/stanza_notes.tsv` contains the sidenotes and footnotes from Morris. The columns are:
+
+- fitt number
+- stanza number
+- note reference
+- note text
