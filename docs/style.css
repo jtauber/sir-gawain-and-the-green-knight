@@ -57,6 +57,9 @@ section {
 .inter > div > *:first-child {
   font-size: 12pt;
 }
+.inter > div > *:first-child:hover {
+  cursor: pointer;
+}
 .inter > div > *:not(:first-child) {
   opacity: 0;
   width: 1px;
