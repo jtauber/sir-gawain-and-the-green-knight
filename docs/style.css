@@ -19,6 +19,12 @@ main {
   flex-wrap: wrap;
   padding: 1em;
 }
+section {
+  margin: 50px;
+  max-width: 900px;
+  font-size: 14pt;
+  line-height: 1.8;
+}
 .stanza {
   flex: 800px;
 }
@@ -82,4 +88,17 @@ main {
   color: #999;
   line-height: 1.5;
   font-size: 10pt;
+}
+.entry-link {
+  text-align: center;
+  padding: 1em;
+}
+.entry-link a {
+  text-decoration: none;
+  background: #369;
+  color: #FFF;
+  padding: 0.5em 1em;
+}
+.entry-link a:hover {
+  background: #69C;
 }
